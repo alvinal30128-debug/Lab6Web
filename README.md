@@ -93,28 +93,49 @@ Tata letak memakai CSS Grid dua kolom di desktop yang berubah menjadi satu kolom
 
 ## 6. Screenshot Hasil
 
-| Latihan | Screenshot |
-|---------|------------|
-| Latihan 1 | ![Latihan 1] (<img width="940" height="445" alt="image" src="https://github.com/user-attachments/assets/66226049-8445-4cb4-993d-64db219f22aa" />)
- |
-| Latihan 2 | ![Latihan 2](<img width="940" height="308" alt="image" src="https://github.com/user-attachments/assets/a5490c03-14c0-4698-9d1a-fc93127aa06d" />
-) |
-| Latihan 3 (sebelum dan sesudah) | ![Latihan 3](<img width="940" height="407" alt="image" src="https://github.com/user-attachments/assets/6c2d7dfc-8adf-44bc-89d5-84d9e2683c88"/>
-) | (<img width="940" height="388" alt="image" src="https://github.com/user-attachments/assets/c37fa2e6-6336-4a7f-a517-3fd87735066e" />
-)
-| Latihan 4 | ![Latihan 4](<img width="940" height="478" alt="image" src="https://github.com/user-attachments/assets/0b6fa285-e03d-496e-8966-609a6d86708c" />
-) | (<img width="940" height="170" alt="image" src="https://github.com/user-attachments/assets/723e5d0f-6a2d-4b95-853c-e8b07eea515d" />
-) | (<img width="940" height="179" alt="image" src="https://github.com/user-attachments/assets/a7b683c9-ff05-4969-a3c2-2d7e25c28c5c" />
-)
-| Latihan 5 — kondisi tidak valid | ![Latihan 5 tidak valid](<img width="940" height="161" alt="image" src="https://github.com/user-attachments/assets/d078d0a0-e455-4fac-9a07-b1ce6dcfc781" />
-) |
-| Latihan 5 — kondisi valid | ![Latihan 5 valid](<img width="940" height="163" alt="image" src="https://github.com/user-attachments/assets/f7e12996-2817-4f01-91ff-cb31017fc5d8" />
-) |
-| Latihan 6 | ![Latihan 6](<img width="940" height="216" alt="image" src="https://github.com/user-attachments/assets/1e2cfc0e-755f-4549-b9f8-e1d1c3aefc68" />
-) |
-| Mini Project — error | ![Mini project error](<img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/451a95e5-1289-4430-a1b0-3c38248a47fc" />
-) |
-| Mini Project — sukses | ![Mini project sukses](<img width="940" height="606" alt="image" src="https://github.com/user-attachments/assets/1c0a249e-c8b4-433c-92d6-188a270bc06b" />
-) |
-| Mini Project — tampilan mobile | ![Mini project mobile](<img width="479" height="1059" alt="image" src="https://github.com/user-attachments/assets/b5626b42-dd2b-4561-8dea-f5791e777ff7" />
-) |
+# Latihan 1
+<img width="940" height="445" alt="image" src="https://github.com/user-attachments/assets/40dbca57-1599-4ff3-9fb8-690feab9c60b" />
+
+# Latihan 2
+<img width="940" height="308" alt="image" src="https://github.com/user-attachments/assets/f3f66d75-3e5e-4536-ab99-8135246889f1" />
+
+# Latihan 3
+Ketika di klik
+<img width="940" height="407" alt="image" src="https://github.com/user-attachments/assets/5b1fd132-0d8a-49f6-b3d7-7a8b1d707765" />
+
+Ketika di klik kembali
+<img width="940" height="388" alt="image" src="https://github.com/user-attachments/assets/72a2b1e4-e2f9-400b-adcf-94ade9237c85" />
+
+# Latihan 4
+Menghitung jumlah karakter
+<img width="940" height="170" alt="image" src="https://github.com/user-attachments/assets/f6be0003-33ad-4da5-b5ef-e92787f85ec5" />
+
+Maksimal jumlah karakter
+<img width="940" height="179" alt="image" src="https://github.com/user-attachments/assets/cdf678a9-9f8a-4fe4-95e8-9a2666671dec" />
+
+# Latihan 5
+Kondisi tidak valid
+<img width="940" height="161" alt="image" src="https://github.com/user-attachments/assets/ab4843e3-9d38-488c-abdd-05e14fda35a4" />
+
+Kondisi valid
+<img width="940" height="163" alt="image" src="https://github.com/user-attachments/assets/3bed0cb6-549e-4f9d-8b1c-d02e76a5a870" />
+
+# Latihan 6 
+Jika form tugas belum terisi
+<img width="940" height="174" alt="image" src="https://github.com/user-attachments/assets/8a735931-fc8e-48da-a051-9ab132b35d1a" />
+
+Setelah form tugas terisi maka muncul daftar tugas
+<img width="940" height="233" alt="image" src="https://github.com/user-attachments/assets/1a780582-182b-44c3-bff4-344f3f28d53f" />
+
+Tandai selesai pada tugas yang di klik tandai selesai
+<img width="940" height="216" alt="image" src="https://github.com/user-attachments/assets/9c357ef0-39a4-488b-8a9c-4f20eac83418" />
+
+## Mini Project Form Pendaftaran Workshop
+Kondisi tidak valid saat mengisi form
+<img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/12f573c6-fa7f-4539-b28b-55abcca763c6" />
+
+Kondisi valid saat saat mengisi form
+<img width="940" height="606" alt="image" src="https://github.com/user-attachments/assets/c1f56114-2a5a-43d5-9c5b-6ae6f6c36db1" />
+
+Tampilan Mobile
+<img width="479" height="1059" alt="image" src="https://github.com/user-attachments/assets/85fa8348-7ba6-4928-b2c4-869462002e86" />
