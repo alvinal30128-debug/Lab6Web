@@ -1,0 +1,86 @@
+* { box-sizing: border-box; }
+ 
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  color: #1f2937;
+  background: #f4f7fb;
+  margin: 0;
+}
+ 
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 16px;
+}
+ 
+header h1 { color: #173f75; margin-bottom: 4px; }
+header p { margin-top: 0; color: #4b5563; }
+ 
+/* Dua kolom di desktop, satu kolom di mobile */
+.layout {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: 16px;
+  align-items: start;
+}
+ 
+form, .ringkasan {
+  background: #ffffff;
+  border: 1px solid #d5deea;
+  border-radius: 8px;
+  padding: 20px;
+}
+ 
+.field { margin-bottom: 14px; }
+ 
+label { display: block; font-weight: bold; margin-bottom: 4px; }
+ 
+input, select, textarea {
+  width: 100%;
+  padding: 9px;
+  border: 1px solid #aab7c9;
+  border-radius: 4px;
+  font-size: 1rem;
+  font-family: inherit;
+}
+ 
+input:focus, select:focus, textarea:focus {
+  outline: 2px solid #3478c8;
+  outline-offset: 1px;
+}
+ 
+/* Kondisi tidak valid */
+.invalid { border-color: #c0392b; background: #fff5f4; }
+.error { color: #c0392b; font-size: 0.9rem; margin: 4px 0 0; min-height: 1.2em; }
+ 
+.counter { text-align: right; font-size: 0.85rem; color: #687386; margin: 4px 0 0; }
+ 
+.actions { display: flex; gap: 10px; flex-wrap: wrap; }
+ 
+button {
+  padding: 10px 16px;
+  border: 0;
+  border-radius: 4px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.btn-primary { background: #3478c8; color: #ffffff; }
+.btn-primary:hover { background: #2a62a5; }
+.btn-secondary { background: #e5e9f0; color: #1f2937; }
+.btn-secondary:hover { background: #d3d9e3; }
+ 
+/* Pesan status */
+.status { margin: 14px 0 0; font-weight: bold; }
+.status.sukses { color: #1e7b45; background: #e8f6ee; padding: 10px; border-radius: 4px; }
+.status.gagal { color: #c0392b; background: #fdecea; padding: 10px; border-radius: 4px; }
+ 
+/* Ringkasan */
+.ringkasan h2 { margin-top: 0; font-size: 1.15rem; color: #173f75; }
+.ringkasan dt { font-weight: bold; margin-top: 10px; color: #4b5563; }
+.ringkasan dd { margin: 2px 0 0; overflow-wrap: anywhere; }
+ 
+@media (max-width: 700px) {
+  .layout { grid-template-columns: 1fr; }
+  .actions button { flex: 1; }
+}

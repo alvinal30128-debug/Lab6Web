@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Pendaftaran Workshop Web</title>
+ <link rel="stylesheet" href="style_project.css">
+ <script src="script_project.js" defer></script>
+</head>
+<body>
+ <main class="container">
+  <header>
+   <h1>Pendaftaran Workshop Web</h1>
+   <p>Isi formulir berikut untuk mengikuti workshop JavaScript DOM dan Event Handling.</p>
+  </header>
+ 
+  <div class="layout">
+   <form id="formWorkshop" novalidate>
+    <div class="field">
+     <label for="nama">Nama lengkap</label>
+     <input id="nama" name="nama" type="text" autocomplete="name">
+     <p class="error" id="errNama" aria-live="polite"></p>
+    </div>
+ 
+    <div class="field">
+     <label for="email">Email</label>
+     <input id="email" name="email" type="email" autocomplete="email">
+     <p class="error" id="errEmail" aria-live="polite"></p>
+    </div>
+ 
+    <div class="field">
+     <label for="sesi">Pilihan sesi</label>
+     <select id="sesi" name="sesi">
+      <option value="">-- Pilih sesi --</option>
+      <option value="pagi">Sesi Pagi — Dasar DOM (09.00–11.00)</option>
+      <option value="siang">Sesi Siang — Event Handling (13.00–15.00)</option>
+      <option value="sore">Sesi Sore — Validasi Form (15.30–17.00)</option>
+     </select>
+     <p class="error" id="errSesi" aria-live="polite"></p>
+    </div>
+ 
+    <div class="field">
+     <label for="catatan">Harapan mengikuti workshop (opsional)</label>
+     <textarea id="catatan" name="catatan" rows="4" maxlength="200"></textarea>
+     <p class="counter"><span id="hitungCatatan">0</span> / 200 karakter</p>
+    </div>
+ 
+    <div class="actions">
+     <button type="submit" class="btn-primary">Daftar</button>
+     <button type="button" id="tombolReset" class="btn-secondary">Hapus Isian</button>
+    </div>
+ 
+    <p id="pesanForm" class="status" aria-live="polite"></p>
+   </form>
+ 
+   <aside class="ringkasan" aria-labelledby="judulRingkasan">
+    <h2 id="judulRingkasan">Ringkasan Input</h2>
+    <dl>
+     <dt>Nama</dt><dd id="ringkasanNama">-</dd>
+     <dt>Email</dt><dd id="ringkasanEmail">-</dd>
+     <dt>Sesi</dt><dd id="ringkasanSesi">-</dd>
+     <dt>Harapan</dt><dd id="ringkasanCatatan">-</dd>
+    </dl>
+   </aside>
+  </div>
+ </main>
+</body>
+</html>
