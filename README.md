@@ -95,13 +95,26 @@ Tata letak memakai CSS Grid dua kolom di desktop yang berubah menjadi satu kolom
 
 | Latihan | Screenshot |
 |---------|------------|
-| Latihan 1 | ![Latihan 1](![alt text](image.png)) |
-| Latihan 2 | ![Latihan 2](screenshots/latihan2.png) |
-| Latihan 3 (sebelum dan sesudah) | ![Latihan 3](screenshots/latihan3.png) |
-| Latihan 4 | ![Latihan 4](screenshots/latihan4.png) |
-| Latihan 5 — kondisi tidak valid | ![Latihan 5 tidak valid](screenshots/latihan5-tidak-valid.png) |
-| Latihan 5 — kondisi valid | ![Latihan 5 valid](screenshots/latihan5-valid.png) |
-| Latihan 6 | ![Latihan 6](screenshots/latihan6.png) |
-| Mini Project — error | ![Mini project error](screenshots/mini-error.png) |
-| Mini Project — sukses | ![Mini project sukses](screenshots/mini-sukses.png) |
-| Mini Project — tampilan mobile | ![Mini project mobile](screenshots/mini-mobile.png) |
+| Latihan 1 | ![Latihan 1] (<img width="940" height="445" alt="image" src="https://github.com/user-attachments/assets/66226049-8445-4cb4-993d-64db219f22aa" />)
+ |
+| Latihan 2 | ![Latihan 2](<img width="940" height="308" alt="image" src="https://github.com/user-attachments/assets/a5490c03-14c0-4698-9d1a-fc93127aa06d" />
+) |
+| Latihan 3 (sebelum dan sesudah) | ![Latihan 3](<img width="940" height="407" alt="image" src="https://github.com/user-attachments/assets/6c2d7dfc-8adf-44bc-89d5-84d9e2683c88"/>
+) | (<img width="940" height="388" alt="image" src="https://github.com/user-attachments/assets/c37fa2e6-6336-4a7f-a517-3fd87735066e" />
+)
+| Latihan 4 | ![Latihan 4](<img width="940" height="478" alt="image" src="https://github.com/user-attachments/assets/0b6fa285-e03d-496e-8966-609a6d86708c" />
+) | (<img width="940" height="170" alt="image" src="https://github.com/user-attachments/assets/723e5d0f-6a2d-4b95-853c-e8b07eea515d" />
+) | (<img width="940" height="179" alt="image" src="https://github.com/user-attachments/assets/a7b683c9-ff05-4969-a3c2-2d7e25c28c5c" />
+)
+| Latihan 5 — kondisi tidak valid | ![Latihan 5 tidak valid](<img width="940" height="161" alt="image" src="https://github.com/user-attachments/assets/d078d0a0-e455-4fac-9a07-b1ce6dcfc781" />
+) |
+| Latihan 5 — kondisi valid | ![Latihan 5 valid](<img width="940" height="163" alt="image" src="https://github.com/user-attachments/assets/f7e12996-2817-4f01-91ff-cb31017fc5d8" />
+) |
+| Latihan 6 | ![Latihan 6](<img width="940" height="216" alt="image" src="https://github.com/user-attachments/assets/1e2cfc0e-755f-4549-b9f8-e1d1c3aefc68" />
+) |
+| Mini Project — error | ![Mini project error](<img width="940" height="588" alt="image" src="https://github.com/user-attachments/assets/451a95e5-1289-4430-a1b0-3c38248a47fc" />
+) |
+| Mini Project — sukses | ![Mini project sukses](<img width="940" height="606" alt="image" src="https://github.com/user-attachments/assets/1c0a249e-c8b4-433c-92d6-188a270bc06b" />
+) |
+| Mini Project — tampilan mobile | ![Mini project mobile](<img width="479" height="1059" alt="image" src="https://github.com/user-attachments/assets/b5626b42-dd2b-4561-8dea-f5791e777ff7" />
+) |
